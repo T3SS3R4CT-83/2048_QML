@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/GameLogic.js</file>
+        <file>qml/Playground.qml</file>
+        <file>qml/Tile.qml</file>
+        <file>js/Tile.qml</file>
+        <file>qml/MainWindow.qml</file>
+    </qresource>
+</RCC>
